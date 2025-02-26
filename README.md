@@ -20,3 +20,7 @@
  ![imagem10](Pegn9.PGN).
  ![imagem11](Pergn10.PNG).
  ![imagem12](Fim.PNG).
+
+## Feedback do professor de Português 
+
+- Bom, tem pegadinhas e esta bem desenvolvido 
